@@ -6,7 +6,7 @@ The Repository contains all the contents of the project folder. As such, you sho
 If you want to try out the code, navigate to the src folder and run the files in any Java interpreter.
 
 Source code is kept in the src folder.
-Raw class files that have been run are kept in the bin folder.
+Java bytecode that can be run by JVM is stored in the bin folder.
 
 If you wish to contribute, please do so in a pull request and call it something relevant.
 
