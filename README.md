@@ -1,6 +1,16 @@
 # RandomJava
 
-This code is all created by me.
-If you wish to commit, please do so in a new branch and call it something relevant.
-To run the files, take one and open them in an IDE, such as Eclipse.
-This is not an entire program, each file is its on program.
+The code is created in Eclipse IDE.
+Each file is its individual program
+The Repository contains all the contents of the project folder. As such, you should only open the entire project in Eclipse.
+If you want to try out the code, navigate to the src folder and run the files in any Java interpreter.
+
+Source code is kept in the src folder.
+Class files are kept in the bin folder.
+
+If you wish to contribute, please do so in a pull request and call it something relevant.
+
+
+
+Made by a middle schooler.
+
