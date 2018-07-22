@@ -1,4 +1,12 @@
-
+/*
+ * This program finds a random number
+ * This program uses an if statement and math.randon()
+ * 
+ * First, a variable is created and assigned to a random number between 0 and 100
+ * It then prints out the number
+ * Then, the if statement checks if the number is >, <, or ==, then it prints out the message.
+ *
+ */
  
 
 
